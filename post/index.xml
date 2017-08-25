@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Nic Yantzi</title>
+    <link>http://nicyantzi.com/post/</link>
+    <description>Recent content in Posts on Nic Yantzi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2016 Nic Yantzi</copyright>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/post/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Welcome to My Blog</title>
+      <link>http://nicyantzi.com/post/welcome-to-my-blog/</link>
+      <pubDate>Thu, 24 Aug 2017 22:31:15 -0300</pubDate>
+      
+      <guid>http://nicyantzi.com/post/welcome-to-my-blog/</guid>
+      <description>&lt;p&gt;Hi! This is something new that I am trying out!&lt;/p&gt;
+
+&lt;p&gt;I am looking to write and share blog posts here about the books I am reading, the things I am learning while doing my MBA at Dalhousie, and anything else I find interesting or exciting in the world of business and in the world.&lt;/p&gt;
+
+&lt;p&gt;This blog initiated a new design of my website. My old website was something I built from scratch. My old website was built using PUG and SASS and I had built an easy development environment using GULP and BrowserSync. This website was great, but when looking into how I wanted to integrate a blog, I stumbled across &lt;a href=&#34;https://gohugo.io&#34; target=&#34;_blank&#34;&gt;Hugo&lt;/a&gt;!&lt;/p&gt;
+
+&lt;p&gt;Hugo allows for this easy development environment while allowing for a simple blog environment. Rather than just build my blog with Hugo and integrate that into my old site, I thought it would be better to learn a new framework and develop something new. So welcome! I hope this blog will be interesting and or thought provoking to those who read it. I appreciate any feedback you may have.&lt;/p&gt;
+
+&lt;p&gt;Thanks,&lt;/p&gt;
+
+&lt;p&gt;Nic&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
