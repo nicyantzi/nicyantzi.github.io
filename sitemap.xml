@@ -41,7 +41,7 @@
     
     <url>
     
-      <loc>http://nicyantzi.com/publication/</loc>
+      <loc>http://nicyantzi.com/talk/publication/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -59,25 +59,7 @@
     
     <url>
     
-      <loc>http://nicyantzi.com/project/deep-learning/</loc>
-      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>http://nicyantzi.com/project/example-external-project/</loc>
-      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>http://nicyantzi.com/publication/person-re-identification/</loc>
+      <loc>http://nicyantzi.com/talk/publication/person-re-identification/</loc>
       <lastmod>2015-09-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -86,7 +68,7 @@
     
     <url>
     
-      <loc>http://nicyantzi.com/publication/clothing-search/</loc>
+      <loc>http://nicyantzi.com/talk/publication/clothing-search/</loc>
       <lastmod>2013-07-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -124,38 +106,8 @@
     
     <url>
     
-      <loc>http://nicyantzi.com/tags/deep-learning/</loc>
-      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>http://nicyantzi.com/tags/demo/</loc>
-      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
       <loc>http://nicyantzi.com/</loc>
       <lastmod>2016-04-20T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>http://nicyantzi.com/project/</loc>
-      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     

@@ -1,0 +1,11 @@
+$background-color: #85929E
+$header-color: #E8F6F3
+$link-color: #1B2631
+$link-color-highlight: #1A5276
+$mobile-nav-toggle-colour: #1B2631
+$background-color-two: #1A5276
+$background-color-three: #7B241C
+$background-color-four: #2E4053
+$background-color-five: #F7DC6F
+$light-color-text: #EAECEE
+$welcome-headline-color: #E8F6F3
