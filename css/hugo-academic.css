@@ -181,6 +181,7 @@ blockquote p:last-child {
 @media screen and (max-width: 768px) {
   .space-below {
     margin-bottom: 10px;
+
   }
 }
 
@@ -221,7 +222,8 @@ blockquote p:last-child {
 }
 
 .home-section:nth-of-type(even) {
-  background-color: rgb(247, 247, 247);
+  background-color: rgb(237, 237, 237);
+  /*prior: 247*/
 }
 
 @media screen and (max-width: 768px) {
@@ -392,7 +394,16 @@ img[alt=Resume]{
 
 }
 
-
+@media screen and (max-width: 768px) {
+  img[alt=Resume]{
+    height: 300px;
+  }
+}
+@media screen and (max-width: 500px) {
+  img[alt=Resume]{
+    margin-left: 20%;
+  }
+}
 /*************************************************
  *  Blog Articles
  **************************************************/
